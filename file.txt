@@ -1,0 +1,2 @@
+collage
+<p>info</p>
